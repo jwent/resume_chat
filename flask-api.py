@@ -1,17 +1,21 @@
 from flask import Flask, request, jsonify
 import os
+import sys
 import openai
 
 # Initialize Flask app
 app = Flask(__name__)
 
-# Set your OpenAI API key here
-# Retrieve API key from environment variable
-openai.api_key = os.getenv('OPENAI_API_KEY')
+# Retrieve the API key from the environment variable
+openai_api_key = os.getenv("OPENAI_API_KEY")
 
-if not openai.api_key:
-    raise ValueError("API key not found. Set the 'OPENAI_API_KEY' environment variable.")
+# Check if the API key exists
+if not openai_api_key:
+    print("Error: API key not found. Set the 'OPENAI_API_KEY' environment variable.")
+    sys.exit(1)  # Exit the script with a non-zero status code to indicate an error
 
+# Continue with the rest of the script
+print("API key loaded successfully.")
 
 def load_resume(file_path):
     """Load resume from a file."""
