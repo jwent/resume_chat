@@ -1,0 +1,178 @@
+Jeremy Went
+(818) 850 6306
+jeremy.mark.went@gmail.com
+
+Professional Experience: 
+
+Mayo Clinic, Rochester MN
+October 2023 - Present
+Principal Software Engineer
+
+Web development for their Patient Portal. ReactJS, NextJS Framework, Jest Unit Testing.
+Github Dependabot vulnerability testing.
+AppDynamics performance monitoring.
+Production operation management.
+
+The Mayo Clinic is a renowned nonprofit medical practice and research institution known for its excellence in patient care, medical education, and innovative research.
+The Mayo Clinic Patient Portal enables patients to securely access their medical records, schedule appointments, communicate with healthcare providers, view test results, and manage their health information online.
+
+Heartbeat, New York, NY
+June 2021 – November 2022
+Consultant Technology Manager
+
+Developed HIPAA compliant websites for pharmaceutical companies using HTML, CSS, ReactJS and PHP Laravel.
+Wireframe to HTML/CSS using Bootstrap. Photoshop and Lunacy.
+Developed an Amazon chatbot for clinical data collection for patients and providers..
+Amazon Web Services including DynamoDB, IAM, Lex, API Gateway, Athena, Glue, Lambda.
+Prototyped DevOps CodeCommit Pipelines for CI.
+NodeJS, Vue.
+
+LockData Technologies, New York, NY
+May 2018 – June 2020
+Senior UI Developer 
+
+Used Angular 2.0+, JavaScript, Typescript, CSS, Redux, React, RxJS, NgRX, RxJS Observable, Web APIs, MSSQL, to develop customized event planning software for clients on Broadway that were employed for group event ticketing solutions, event budgeting, scheduling and overall event management. 
+Performed web design and content management Angular2 with NgRx (Redux) and RxJS Observables. 
+Designed and implemented new features including a group event planner using CSS and C# based APIs. 
+Developed a Group Tool application and testing harness for major ticketing vendors. 
+Designed a custom Microsoft test adapter for querying API assemblies and endpoints using C# reflection. 
+Performed UI control tests including edits, filter and input. 
+
+HarperCollins Publishers, New York, NY	
+March 2012 – October 2017
+Web Application Developer
+
+Developed the front end of applications for emerging markets such as electronic publishing, social media and mobile technology using React.JS, JavaScript, Node.JS. Angular, Symfony2, LAMP, AWS, Jira and PHP.
+Designed the UI for a public facing website for author agents to monitor royalty payments, read author biographies and display book title information. 
+Used Node for implementation of Alexa Voice Application features.
+Performed Linux administration and used Jira with Agile management.
+Employed Checkmarx static code as a security analysis tool and New Relic for system monitoring.
+Developed a Facebook application that allows people to share snippets of ebooks they are currently reading. 
+Development on in-house projects such as free ebook delivery for employees. 
+Alexa application so people can get wellness tips every morning from our authors. 
+This was a multi-role website with editors and administrators having access to custom functionality.
+
+Cosmos Communications, New York, NY	
+March 2011 – January 2012
+Consultant
+
+Performed UI development and implemented front end layers using CSS3, HTML and Photoshop. 
+JavaScript. 
+Employed LAMP, AWS (EC2), Magento, PHP Cache for middle tier layers.
+Designed API consumers for EventBrite.com and Twitter using JavaScript and jQuery. 
+Designed and coded flagship web applications for Cosmos Communications, employed as a marketing services provider web application tool.  
+Coded features to allow clients to manage and administer interactive production resources to support marketing and advertising programs.
+
+FaceBook; Cameostars, New York, NY	
+December 2009 – January 2011
+Consultant
+Winners of the Facebook Studio Hackathon for “Social Cameo”.
+Designed and developed; a Facebook application called Cameostars, using HTML, PHP, JavaScript, jQuery, CSS, MySQL, AJAX and CakePHP. 
+Performed LINUX administration using SVN, Agile JIRA development environment with Crucible. 
+Designed and programmed an application developer for Cameostars, the world’s first social entertainment platform that enables leading entertainment companies and brands to bring their Talent to life in social media and mobile devices, where they directly engage individual consumers and forge high-impact connections. 
+
+
+Credit Suisse, New York, NY.
+July 2007 – July 2009.
+Consultant
+ Real-time pricing and analytics for fixed income desks. Fixed income derivatives. Swaps, Bonds.
+ C#, C++/CLI, C++, COM, Windows XP.
+ Excel.
+
+Principal developer for LOCuS which provides a live, interactive, multi-product platform for clients, sales, trading and research within fixed income. LOCuS delivers a combination of live market data, relative value monitors, calculators, the ability to analyze and track trade ideas and collaborate using application specific instant messaging and email. Users have access to Credit Suisse's view of the market and trade ideas, as well as the ability to customize their own market views and set up trade performance monitors.
+Responsible for architecting and development of front and back facing servers that delivered propriety fixed income pricing based on stochastic modeling for volatility surfaces, term structures, yield curves, market interest rates, coupon schedules, market data and other sensitivities for callable bonds, cap floors, constant maturity swaps and other interest rate derivatives. Responsibilities included deconstruction of Excel quantitative analytics and construction of C++ calculations servers using a .NET/XML delivery service using C# threading and Credit Suisse internal modeling COM API.
+ 
+XL Financial Solutions Ltd.	                             	March 2006 to July 2007
+100 Stamford Place. Stamford, CT.
+(Now XL Group)
+
+Implemented Markov Chain Monte Carlo simulations in C++. Using Numerical Algorithms Group libraries. Blitz matrix libraries and Boost libraries.
+Developed C# graphical interpretation of risk simulation process with real-time histograms and charts of cash flow and statistics of the simulation.
+Designed native C++ wrappers for efficient numerical libraries to be used with C#.
+Designed a small securitization projects database for MS SQL Server.
+Custom managed/native data marshaling. Matrix math and decomposition techniques.
+Understanding of risk analysis of securitization business.
+ 
+Securitization and credit derivatives, credit default swaps or CDS collateralized debt obligations or CDO.
+ 
+
+FUNDTech Corporation           	          	          	             March 2004 to December 2005
+30 Montgomery Street Suite 501 Jersey City, NJ 07302.
+
+MS VC++ 6.0 development. Windows Server 2000, UNIX Tuxedo and CORBA development.
+Tuxedo and Weblogic Administration
+Unix Administration
+
+Fundtech is a leading provider of software solutions and services that facilitate payments, settlement and cash management by enabling businesses and their banks to electronically manage cash, process payments and transfer funds. The Company’s client-server and Internet software products automate the process of transferring funds among corporations, banks and clearance systems and enable businesses to manage global cash positions efficiently and in real-time. Its solutions have been sold to more than 700 financial institutions around the globe.
+ 
+Mercuity Software                                                                March  2003 to March 2004
+132 Bowery St. New York.
+
+MS VC++ .NET 2003 High speed printer device driver and windows services development. Boca Printer development.
+XML, ColdFusion MX, Dreamweaver 2004, Flash MX 2004, MS SQL Server Ticket designer and print layout database with XML data generation for ColdFusion
+Windows and Unix Socket Programming, Threaded Service Code. Translation service for Unicode to Terminal Fonts.
+ 
+Mercuity is a provider of online and box office software services for the New York Philharmonic and Lincoln Center. I wrote a windows service that would accept html posts from the box office ticketing application written in ColdFusion and print tickets according to a server layout specification and data from the ColdFusion ticketing application. The service is XML based.
+ 
+Financial Technologies International           	          	     	Jan 2001 to Sept 2002
+22 Cortlandt St. NY. www.ftintl.com
+
+CRM, ERP, pre/post sales management. Technical lead in enterprise wide product roll out.
+VC++/MFC/STL Developed client parameter input software for proprietary messaging system.
+VSS/Make/Ant/ClearCase Managed company wide software publication and release.
+Unix and Windows Lisp/C++/C/Java Developed real-time messaging systems and interfaces to real-time feeds and databases. Worked with FIX and Tibco,
+Oracle administration. Unix admin. Unix shell scripts. sh, csh, Ksh.
+ 
+ 
+FTI’s product is a rules and transaction based, event-driven applications suite for real-time market data consolidation and operational accounting efficiencies for the financial services industry. Developed transaction message consolidation and integration system for third party databases using VC++/Java and a LISP like message based language and custom message routing technology. Developed messaging middleware software for banks. Responsible for the installation, testing and maintenance of client software on numerous platforms, Oracle database setup and third party software integration. Worked with many platforms and languages writing custom message transfer and real-time data transfer software including, Linux C and C++, VC++, Java,  Microsoft Windows, UNIX, AIX. Egate.
+Rational ClearCase. Access. VBA.
+ 
+Telecharge - Shubert Ticketing Services           	          	             Nov 1998 to Jan 2001
+Hackensack, NJ.
+
+Java Swing/Servlets/Class Design
+VC++/C++/Passport
+Microsoft Exchange 2000 Server, Active Directory and SQL Server 2000.
+ 
+Responsible for writing Windows NT and Windows 95 device drivers to control BOCA graphical printers using FGL. Development of graphical user interface for printers, using VC++, that will allow the user to design customized tickets and store the design in an Oracle database. Developed messaging software using Passport language. Developed server side processing for Telecharge the online theater ticketing service. Designed Lotus Notes Forms for data input. Administration of Lotus Web Conferencing, Apache web server and Tomcat container.
+Wrote web service software publication system in Java for company-wide distribution of in-house products and system changes and upgrades. The internet tool is a multi level security system allowing a systems administrator to entitle users and groups to system software and deliver software updates securely using electronic certificates.
+ 
+Merrill Lynch 	                                                                  	Jan 1998 to Nov 1998
+4 World Financial Center, 250 Vesey St. New York, NY 10080
+ 
+VC++/MFC/STL/COM+           	          	          	          	            
+Tcl-Tk/PERL/
+ 
+Merrill Lynch contract to develop a trading application for the pricing of swaps contracts. Together with trading floor operations managers I developed and designed a Windows application that would allow the entry of extensive data and calculate contract prices. The application was written in VC++ 5.0 and was a multiple view application that included form views with splitters, a print view and numerous Stingray grid objects. VC++/Tcl-Tk/PERL
+ 
+JP Morgan/Sun Microsystems                                              	March 1997 to Jan 1998
+60 Wall St
+New York, NY
+ 
+UNIX IPC/OS C++, Posix Threads           	            
+SunOs Socket programming
+ 
+Contract to perform operating system software ports.
+Ported numerous dealing room applications from SunOS 4.1.x to Solaris 2.x including a real-time market quote server. The server would fork communication processes that would handle client requests for historical and real-time data. Developed UNIX messaging middleware. Converted the server to use threads.
+ 
+Leading Market Technologies           	  		           March 1993 to March 1997
+One Kendall Square, Building 100, Cambridge, MA 02139. www.lmt-expo.com
+LMT is a small company involved in the promotion of a specialized dealing room product designed to allow the creation and graphical display of time series calculations and analytics. The product can connect to various historical and real-time data feeds. LMT’s customer base spans four continents and includes many leading fortune investment and banking companies.
+My duties included the development of custom analytical software using a time series calculative language, field engineering and business development for customer site installations around the world as well as product development. Product development included a customized real-time price calculation database server for a securities investment firm. Other duties included product presentation and instruction for clients, design and development of customized financial analytics. As a leading consultant for LMT I worked with many analysts in banks in Europe and the US including Bear Sterns, Credit Suisse First Boston, Lehman Brothers, Societe Generale, , Deutsche Bank, Lloyds Bank and Nomura. Management of customer relations, client technical resources and conferences. I was involved in the sales process of client licenses of $1M+ at LMT with managers of at least 15 different world-class banks.
+
+Bank of America (Continental Bank)           	          	        	June 1990 to March 1993
+Chicago, IL.
+Developed, with three other engineers, front office applications for government contract traders on PCs and Suns.  Applications included a trade input system, a profit and loss calculator and a price publication system.  Development included the generation of a Sybase database for trade entry data. I worked on all aspects of the project including design and development of user interface applications using Xlibs and Exocode (a prototyping tool), C and Sybase development.
+Involved in a project to transfer and redesign a margin risk and account system from an IBM mainframe system to a PC and SUN UNIX platform. I was included in the design and development of a Sybase database for this project. Responsibilities included design and development of a PC based margin account entry application and C++ class development for Sybase database access applications.
+
+Chicago Board of Options Exchange            	          	        	June 1989 to June 1990 Chicago, IL.
+I worked with a small group of developers to maintain and coordinate production of the client communications system for electronic ticket matching program.  I was responsible for the administration of the system in production and also development of various parts of the system, including filtering of electronic orders from Exchange member firms’ electronic lines, router logic and a program to reroute orders to ‘disaster printers’ in the event of any part of the order matching system crashing.
+
+PC Quote International (PC Quote and Bridge Data)          	May 1986 to June 1989
+London and Chicago. www.pcquote.com
+Involved in the inception of what is today one of the largest real-time international market delivery, trading and analysis services. Developed financial real-time information consolidator and delivery service.  Involved in a project to develop an international delivery service using a PC-DOS platform.  Worked on various elements of the project, developing in ‘C’ and 80X86 assembler, including TSR programs, front end user interfaces, graphics and consolidator filters.
+EDUCATION:
+Anglia Ruskin University
+Victoria Road South. Chelmsford, CM1 1LL. England
+B.S. Control Systems Engineering 
+

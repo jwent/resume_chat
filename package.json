@@ -1,0 +1,19 @@
+{
+  "name": "resume_chat",
+  "version": "1.0.0",
+  "description": "This project is an **OpenAI-powered app** designed to answer questions about your career based on the information provided in your resume. It's a personalized and interactive tool to help you showcase your professional journey, skills, and achievements in a conversational format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwent/resume_chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwent/resume_chat/issues"
+  },
+  "homepage": "https://github.com/jwent/resume_chat#readme"
+}
