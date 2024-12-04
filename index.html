@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume Chat Application</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+    }
+    .banner {
+      text-align: center;
+      background-color: #4caf50;
+      color: white;
+      padding: 20px 0;
+    }
+    .banner img {
+      max-width: 100%;
+      height: auto;
+    }
+    .content {
+      margin: 20px auto;
+      max-width: 800px;
+      text-align: center;
+    }
+    .question-box {
+      margin-top: 20px;
+    }
+    .question-box input {
+      width: 70%;
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+    .question-box button {
+      padding: 10px 20px;
+      font-size: 16px;
+      margin-left: 10px;
+      background-color: #4caf50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .question-box button:hover {
+      background-color: #45a049;
+    }
+    .answer {
+      margin-top: 20px;
+      font-size: 18px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+  <!-- React and Babel Libraries -->
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <!-- React Application Script -->
+  <script type="text/babel">
+    const App = () => {
+      const [question, setQuestion] = React.useState('');
+      const [answer, setAnswer] = React.useState('');
+
+      const handleQuestionSubmit = () => {
+        // Simulate answering the question
+        setAnswer(`You asked: "${question}". Here's the response: [Simulated Answer].`);
+      };
+
+      return (
+        <div>
+          <div className="banner">
+            <img src="banner.webp" alt="Banner" />
+            <h1>Welcome to My Resume Chat Application</h1>
+            <p>Ask me anything about my experience, skills, or qualifications!</p>
+          </div>
+          <div className="content">
+            <div className="question-box">
+              <input
+                type="text"
+                placeholder="Type your question here..."
+                value={question}
+                onChange={(e) => setQuestion(e.target.value)}
+              />
+              <button onClick={handleQuestionSubmit}>Ask</button>
+            </div>
+            {answer && <div className="answer">{answer}</div>}
+          </div>
+        </div>
+      );
+    };
+
+    ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+  </script>
+</body>
+</html>
