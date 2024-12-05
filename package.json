@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jwent/resume_chat/issues"
   },
-  "homepage": "https://github.com/jwent/resume_chat#readme"
+  "homepage": "https://github.com/jwent/resume_chat#readme",
+  "devDependencies": {
+    "serverless-python-requirements": "^6.1.1",
+    "serverless-wsgi": "^3.0.5"
+  }
 }

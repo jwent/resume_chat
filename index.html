@@ -69,11 +69,18 @@
     const App = () => {
       const [question, setQuestion] = React.useState('');
       const [answer, setAnswer] = React.useState('');
+      const questionBoxRef = React.useRef(null); // Ref to the question box
 
       const handleQuestionSubmit = () => {
-        // Simulate answering the question
         setAnswer(`You asked: "${question}". Here's the response: [Simulated Answer].`);
       };
+
+      React.useEffect(() => {
+        // Scroll to the question box after the page loads
+        if (questionBoxRef.current) {
+          questionBoxRef.current.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      }, []);
 
       return (
         <div>
@@ -83,7 +90,7 @@
             <p>Ask me anything about my experience, skills, or qualifications!</p>
           </div>
           <div className="content">
-            <div className="question-box">
+            <div className="question-box" ref={questionBoxRef}>
               <input
                 type="text"
                 placeholder="Type your question here..."
